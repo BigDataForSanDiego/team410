@@ -10,7 +10,7 @@
 
 #### A visual
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/team410/blob/main/quickimage2.png?raw=true "Visualization on a US map")
-
+![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/team410/blob/main/myVideo.gif?raw=true "Visualization on a US map")
 #### Hackathon Theme(s) (check a box(es))
 - [X] Artificial Intelligence/Machine Learning 
 > How can we leverage AI/ML Algorithms to help support diagnostics, clinical decisions, and forecast staffing and hospital capacity?
